@@ -7,6 +7,8 @@ int main(void) {
     float totalPay = 1000.0f;
 
     // 🩷Assignment Operators
+
+    printf("\nCalculation\n\n");
     printf("Initial total price: Php %.2f\n", totalPrice);
 
     totalPrice = cupsOrdered * pricePerCup;
